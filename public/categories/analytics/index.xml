@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Ghezae Fisseha</title>
+    <link>/categories/analytics/</link>
+    <description>Recent content in Analytics on Ghezae Fisseha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Cohort Analysis?</title>
+      <link>/2021/06/22/what-is-cohort-analysis/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/06/22/what-is-cohort-analysis/</guid>
+      <description>First, let&#39;s begin by defining what cohort mean. The word cohort is derived from Latin cohors meaning an enclosure or enclosed group.
+In digital analytics context it means a group of customers that share something in common. This refers to a groupo of users who have similar 
+characteristics or experiences within a defined time-span. Therefore, cohort analysis is a type of behavioral analytics that breaks the dataset 
+into groups before conducting analysis. 
+</description>
+    </item>
+    
+  </channel>
+</rss>

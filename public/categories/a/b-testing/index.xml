@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A/B Testing on Ghezae Fisseha</title>
+    <link>/categories/a/b-testing/</link>
+    <description>Recent content in A/B Testing on Ghezae Fisseha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/a/b-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A/B Test Sample Size Calculation</title>
+      <link>/2021/06/22/a/b-test-sample-size-calculation/</link>
+      <pubDate>Tue, 22 Jun 2021 08:03:22 -0700</pubDate>
+      
+      <guid>/2021/06/22/a/b-test-sample-size-calculation/</guid>
+      <description>
+When designing an A/B test, it is imperative that we calculate the sample size. With the help of online calculators or softwares, we can easily calculate the sample size by filling in the significance level α, power (1-β), baseline value, minimum detectable effect or margin of error. This becomes handy as we don’t need to manually calculate the sample size ourselves. However, it might help to understand what the assumptions are, so that we can trust the outcome of the online calculators.
+</description>
+    </item>
+    
+  </channel>
+</rss>

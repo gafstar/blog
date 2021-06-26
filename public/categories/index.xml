@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ghezae Fisseha</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Ghezae Fisseha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analytics</title>
+      <link>/categories/analytics/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analaysis, Machine Learning</title>
+      <link>/categories/exploratory-data-analaysis-machine-learning/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/exploratory-data-analaysis-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>/categories/business-intelligence/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/business-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A/B Testing</title>
+      <link>/categories/a/b-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/a/b-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

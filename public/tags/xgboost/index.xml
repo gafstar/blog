@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xgboost on Ghezae Fisseha</title>
+    <link>https://example.ghezae.org/tags/xgboost/</link>
+    <description>Recent content in xgboost on Ghezae Fisseha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.ghezae.org/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binary Classification Using XGBoost</title>
+      <link>https://example.ghezae.org/2021/05/27/binary-classification-using-xgboost/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.ghezae.org/2021/05/27/binary-classification-using-xgboost/</guid>
+      <description>The purpose of this post it to understand how to apply XGBoost  to a binary classification problem. In this post we are going to see how to apply XGBoost classifier algorithm to an adult data set downloaded from &lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/adult&#34;&gt;UCI Machine Learning Repository&lt;/a&gt;. XGBoost is an optimized gradient boosting open source library knows for its flexibility and portability. It is also a popular algorithm for machine learning competitions for structured or tabular dataset. In &lt;a href=&#34;https://www.kaggle.com/&#34;&gt;Kaggle&lt;/a&gt; is it the number one choice for tabular dataset.
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

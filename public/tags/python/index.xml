@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Ghezae Fisseha</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Ghezae Fisseha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Cohort Analysis?</title>
+      <link>/2021/06/22/what-is-cohort-analysis/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/06/22/what-is-cohort-analysis/</guid>
+      <description>First, let&#39;s begin by defining what cohort mean. The word cohort is derived from Latin cohors meaning an enclosure or enclosed group.
+In digital analytics context it means a group of customers that share something in common. This refers to a groupo of users who have similar 
+characteristics or experiences within a defined time-span. Therefore, cohort analysis is a type of behavioral analytics that breaks the dataset 
+into groups before conducting analysis. 
+</description>
+    </item>
+    
+    <item>
+      <title>A Step by Step Machine Learning Approach on Portguese Bank Marketing Strategy</title>
+      <link>/2021/06/01/a-step-by-step-machine-learning-approach-on-portguese-bank-marketing-strategy/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/06/01/a-step-by-step-machine-learning-approach-on-portguese-bank-marketing-strategy/</guid>
+      <description>
+
+This data comes from UCI Machine Learning Repository. From analyzing this data, I believe there are some insights that can be applied to other companies strategy in acquiring new clients.
+The data is related with direct telemarketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the phone call will result for a long term deposit or not. This analysis is based only on 10% of the overall dataset used by S. Moro et al., 2014.
+</description>
+    </item>
+    
+    <item>
+      <title>Binary Classification Using XGBoost</title>
+      <link>/2021/05/27/binary-classification-using-xgboost/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/05/27/binary-classification-using-xgboost/</guid>
+      <description>The purpose of this post it to understand how to apply XGBoost  to a binary classification problem. In this post we are going to see how to apply XGBoost classifier algorithm to an adult data set downloaded from &lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/adult&#34;&gt;UCI Machine Learning Repository&lt;/a&gt;. XGBoost is an optimized gradient boosting open source library knows for its flexibility and portability. It is also a popular algorithm for machine learning competitions for structured or tabular dataset. In &lt;a href=&#34;https://www.kaggle.com/&#34;&gt;Kaggle&lt;/a&gt; it is the number one choice for tabular dataset.
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
